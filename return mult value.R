@@ -36,6 +36,5 @@ for (i in 1:dim(rawdata)[1]) {for (j in 1:dim(rawdata)[2]) {
     rawdata <- test[[1]]
     newdata <- test[[2]]
     island <- island +1}
-  
 }}
 
